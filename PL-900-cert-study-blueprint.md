@@ -30,25 +30,25 @@
 * [How to build a canvas app](https://docs.microsoft.com/en-us/learn/modules/build-app-solution/)
 * [How to build a model-driven app](https://docs.microsoft.com/en-us/learn/modules/how-build-model-driven-app/)
 * [Explore Power Apps portal studio](https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/)
-*
-*
+* asdf
 
 ## Power Automate
 
 * [Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
 * [Power Automate learning resources](https://flow.microsoft.com/en-us/blog/power-automate-learning-resources/)
-* Power Automate Desktop
-* Power Automate mobile apps
-* s
+* [Power Automate Desktop](https://flow.microsoft.com/en-us/desktop/)
+* [Power Automate mobile apps](https://flow.microsoft.com/en-us/mobile/download/)
+* [Automate a business process with Power Automate](https://docs.microsoft.com/en-us/learn/paths/automate-process-power-automate/)
 
 ## Power Virtual Agents
 
 * [Power Virtual Agents documentation](https://docs.microsoft.com/en-us/power-virtual-agents/)
 * [Build a basic chatbot](https://docs.microsoft.com/en-us/learn/modules/how-build-basic-chatbot/)
 
-
-
 ## Power BI
 
-
+* [ Power BI docs](https://docs.microsoft.com/en-us/power-bi/)
+* [Power BI Desktop app](https://powerbi.microsoft.com/en-us/downloads/)
+* [Power BI mobile apps](https://powerbi.microsoft.com/en-us/mobile/)
+* [Power BI training @ MS Learn](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
 
