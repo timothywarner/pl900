@@ -18,6 +18,8 @@
 * [Power Platform licensing](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
 * [Understand Power Platform licensing](https://docs.microsoft.com/en-us/microsoft-365/community/powerplatformlicensingforcitizendeveloper)
 * [Power Platform learning resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
+* [Power Platform Licensing Guide [PDF]](https://go.microsoft.com/fwlink/p/?linkid=2085130)
+* [Dynamics 365 trials](https://trials.dynamics.com/)
 
 ## Power Apps
 
