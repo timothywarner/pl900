@@ -32,7 +32,7 @@
 * [How to build a canvas app](https://docs.microsoft.com/en-us/learn/modules/build-app-solution/)
 * [How to build a model-driven app](https://docs.microsoft.com/en-us/learn/modules/how-build-model-driven-app/)
 * [Explore Power Apps portal studio](https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/)
-* asdf
+* [Microsoft "App in a Day" training](https://powerapps.microsoft.com/en-us/blog/free-app-in-a-day-powerapps-training-and-more-from-pragmatic-works/)
 
 ## Power Automate
 
@@ -53,4 +53,5 @@
 * [Power BI Desktop app](https://powerbi.microsoft.com/en-us/downloads/)
 * [Power BI mobile apps](https://powerbi.microsoft.com/en-us/mobile/)
 * [Power BI training @ MS Learn](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
+* [Power BI sample data](https://github.com/linuxacademy/content-PL-900-Microsoft-Power-Platform-Fundamentals)
 

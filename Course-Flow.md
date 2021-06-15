@@ -9,9 +9,13 @@
   * Environments
   * On-prem data gateway
   * DLP policies
+* Groups
+  * Create Azure AD group
 
 ### Power Apps
 
+* MS Access
+  * Components
 * Dataverse
   * New tables
     * Relationships
@@ -39,3 +43,50 @@
   * Item types analysis
 * Practice exam review
 * Cloud labs
+
+## Session 2
+
+### Review
+
+
+
+### Power Virtual Agents
+
+
+
+### Power BI
+
+
+
+### Exam Prep
+
+* Practice questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
