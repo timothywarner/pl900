@@ -44,25 +44,6 @@
 * Practice exam review
 * Cloud labs
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Session 2
 
 ### Review
@@ -108,58 +89,31 @@
 * * Import CSVS
 * change date format; remove first column
 * Model tab > Create relationship
+
   * Country_Name and Country_Region
 * Stacked bar chart
+
   * Axis (Country_Region)
   * Values (Confirmed)
   * Filter Confirmed, filter type Top 10 by value Confirmed
 * Pie chart
+
   * Legend (Country_Region)
   * Values (Active)
   * Filter Active, filter type Top N (10), by value Active Apply
 * Publish
 * Create Dashboard
-
 * Create report in the cloud
+
   * Filled map
   * 12-31 Lat & Long_ to Lat and Long fields
   * Location: Country_Region
   * Legend: Incident_Rate
-
 * Add Power BI tile to canvas app
 * Add dashboard to model-driven app
-
 
 ### Exam Prep
 
 * Practice questions
 * Online testing
 *
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
