@@ -15,7 +15,6 @@
 ## Mobile Apps
 - [Power Apps Mobile](https://docs.microsoft.com/en-us/powerapps/mobile/run-powerapps-on-mobile)
 - [Power Automate Mobile](https://us.flow.microsoft.com/en-us/mobile/download/)
-- Power Virtual Agents Mobile
 - [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
 
 ## Certification info
@@ -67,7 +66,7 @@
 
 ## Power BI
 
-- [ Power BI docs](https://docs.microsoft.com/en-us/power-bi/)
+- [Power BI documentation](https://docs.microsoft.com/en-us/power-bi/)
 - [Power BI Desktop app](https://powerbi.microsoft.com/en-us/downloads/)
 - [Power BI mobile apps](https://powerbi.microsoft.com/en-us/mobile/)
 - [Power BI training @ MS Learn](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
