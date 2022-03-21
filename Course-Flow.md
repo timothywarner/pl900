@@ -1,4 +1,4 @@
-# PL - 900 Table of Contents
+# PL-900 Table of Contents
 
 ## Session 1
 
