@@ -2,10 +2,21 @@
 
 ## Management portals
 
+- [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/environments)
 - [Power Apps](https://make.powerapps.com)
 - [Power Automate](https://flow.microsoft.com)
 - [Power Virtual Agents](https://web.powerva.microsoft.com)
 - [Power BI](https://app.powerbi.com)
+
+## Desktop Apps
+- [Power Automate Desktop](https://powerautomate.microsoft.com/en-us/desktop/)
+- [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+
+## Mobile Apps
+- [Power Apps Mobile](https://docs.microsoft.com/en-us/powerapps/mobile/run-powerapps-on-mobile)
+- [Power Automate Mobile](https://us.flow.microsoft.com/en-us/mobile/download/)
+- Power Virtual Agents Mobile
+- [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
 
 ## Certification info
 
