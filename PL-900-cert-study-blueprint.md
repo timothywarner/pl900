@@ -26,6 +26,8 @@
 - [Tim's practice exam comparison](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
 - [Whizlabs PL-900 practice exams](https://www.whizlabs.com/microsoft-power-platform-fundamentals-pl-900/)
 - [MeasureUp PL-900 practice exams](https://www.measureup.com/pl-900-microsoft-power-platform-fundamentals.html)
+- [Microsoft certification policies & support](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
+- [Pearson VUE support](https://home.pearsonvue.com/microsoft/contact)
 
 ## Power Platform in general
 
