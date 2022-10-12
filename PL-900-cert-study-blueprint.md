@@ -1,5 +1,16 @@
 # Exam PL-900 Certification Study Blueprint
 
+## Power Platform in general
+
+- [Power Platform marketing page](https://powerplatform.microsoft.com/en-us/)
+- [Power Platform documentation](https://docs.microsoft.com/en-us/power-platform/)
+- [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/)
+- [Power Platform licensing](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
+- [Understand Power Platform licensing](https://docs.microsoft.com/en-us/microsoft-365/community/powerplatformlicensingforcitizendeveloper)
+- [Power Platform learning resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
+- [Power Platform Licensing Guide [PDF]](https://go.microsoft.com/fwlink/p/?linkid=2085130)
+- [Dynamics 365 trials](https://trials.dynamics.com/)
+
 ## Management portals
 
 - [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/environments)
@@ -12,7 +23,7 @@
 - [Power Automate Desktop](https://powerautomate.microsoft.com/en-us/desktop/)
 - [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
-## Mobile Apps
+## Power Platform mobile apps
 - [Power Apps Mobile](https://docs.microsoft.com/en-us/powerapps/mobile/run-powerapps-on-mobile)
 - [Power Automate Mobile](https://us.flow.microsoft.com/en-us/mobile/download/)
 - [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
@@ -28,17 +39,6 @@
 - [MeasureUp PL-900 practice exams](https://www.measureup.com/pl-900-microsoft-power-platform-fundamentals.html)
 - [Microsoft certification policies & support](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 - [Pearson VUE support](https://home.pearsonvue.com/microsoft/contact)
-
-## Power Platform in general
-
-- [Power Platform marketing page](https://powerplatform.microsoft.com/en-us/)
-- [Power Platform documentation](https://docs.microsoft.com/en-us/power-platform/)
-- [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/)
-- [Power Platform licensing](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
-- [Understand Power Platform licensing](https://docs.microsoft.com/en-us/microsoft-365/community/powerplatformlicensingforcitizendeveloper)
-- [Power Platform learning resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
-- [Power Platform Licensing Guide [PDF]](https://go.microsoft.com/fwlink/p/?linkid=2085130)
-- [Dynamics 365 trials](https://trials.dynamics.com/)
 
 ## Power Apps
 
