@@ -1,5 +1,12 @@
 # Exam PL-900 Certification Study Blueprint
 
+## Power Platform Free Trials
+
+- [Power Apps free trial](https://learn.microsoft.com/en-us/power-apps/maker/signup-for-powerapps)
+- [Power Automate free trial](https://signup.microsoft.com/get-started/signup?isAdminSignup=true&products=f30db892-07e9-47e9-837c-80727f46fd3d&ali=1)
+- [Power Virtual Agents free trial](https://learn.microsoft.com/en-us/power-virtual-agents/sign-up-individual)
+- [Power BI free trial](https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/)
+
 ## Power Platform in general
 
 - [Power Platform marketing page](https://powerplatform.microsoft.com/en-us/)
