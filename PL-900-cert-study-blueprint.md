@@ -6,6 +6,8 @@
 - [Power Automate free trial](https://signup.microsoft.com/get-started/signup?isAdminSignup=true&products=f30db892-07e9-47e9-837c-80727f46fd3d&ali=1)
 - [Power Virtual Agents free trial](https://learn.microsoft.com/en-us/power-virtual-agents/sign-up-individual)
 - [Power BI free trial](https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/)
+- [Power Pages free trial](https://learn.microsoft.com/en-us/power-pages/getting-started/trial-signup)
+- [Dynamics 365 trials](https://trials.dynamics.com/)
 
 ## Power Platform in general
 
@@ -16,7 +18,6 @@
 - [Understand Power Platform licensing](https://docs.microsoft.com/en-us/microsoft-365/community/powerplatformlicensingforcitizendeveloper)
 - [Power Platform learning resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/)
 - [Power Platform Licensing Guide [PDF]](https://go.microsoft.com/fwlink/p/?linkid=2085130)
-- [Dynamics 365 trials](https://trials.dynamics.com/)
 
 ## Management portals
 
@@ -25,12 +26,16 @@
 - [Power Automate](https://flow.microsoft.com)
 - [Power Virtual Agents](https://web.powerva.microsoft.com)
 - [Power BI](https://app.powerbi.com)
+- [Power Pages portal](https://make.powerpages.microsoft.com/)
+- [Msportals.io](https://msportals.io/)
 
-## Desktop Apps
+## Power Platform desktop apps
+
 - [Power Automate Desktop](https://powerautomate.microsoft.com/en-us/desktop/)
 - [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ## Power Platform mobile apps
+
 - [Power Apps Mobile](https://docs.microsoft.com/en-us/powerapps/mobile/run-powerapps-on-mobile)
 - [Power Automate Mobile](https://us.flow.microsoft.com/en-us/mobile/download/)
 - [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
@@ -42,8 +47,10 @@
 - [Microsoft Certification Dashboard](htps://microsoft.com/mcp)
 - [Tim's online testing video](https://www.youtube.com/watch?v=myf6r5nulj0)
 - [Tim's practice exam comparison](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
+- [Microsoft free certification assessments](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Whizlabs PL-900 practice exams](https://www.whizlabs.com/microsoft-power-platform-fundamentals-pl-900/)
 - [MeasureUp PL-900 practice exams](https://www.measureup.com/pl-900-microsoft-power-platform-fundamentals.html)
+- [Udemy PL-900 practice exams](https://www.udemy.com/course/microsoft-pl-900-fundamentals/)
 - [Microsoft certification policies & support](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 - [Pearson VUE support](https://home.pearsonvue.com/microsoft/contact)
 
